@@ -95,4 +95,4 @@ Python · pandas · NumPy · SciPy · Matplotlib · Ollama · LLM open-weight (L
 ## Autrice
 
 **Miriam Magazzini** — Laureanda in Data Science, Calcolo Scientifico e Intelligenza Artificiale, Università degli Studi di Firenze.
-Progetto svolto per il corso di [nome del corso], luglio 2026.
+Progetto svolto per il corso di Linguaggio, Cognizione e Computazione, luglio 2026.
