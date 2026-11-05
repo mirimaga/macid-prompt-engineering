@@ -1,0 +1,12 @@
+# Dataset MACID: distribuito dagli autori, non ridistribuito qui
+macid_data.csv
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Notebook e sistema
+.ipynb_checkpoints/
+.DS_Store
